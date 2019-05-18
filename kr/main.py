@@ -5,5 +5,3 @@ biggest_s = ''
 for i in string:
     biggest_s += i
 print('The biggest number that we can make is', biggest_s)
-
-
